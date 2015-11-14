@@ -19,5 +19,6 @@ Dystopian & Other Science Fiction Animes Complementing Project
 |[《电脑线圈》](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E7%B7%9A%E5%9C%88)|把《数码宝贝》里的小学生放进赛博朋克世界……||
 |[《死亡代理人》](https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E4%BB%A3%E7%90%86%E4%BA%BA)|这都是政府的阴谋啊！ED 是专辑《Ok, computer》的《Paranoid Android》。|异形，科学魔幻，哲学|
 |[《妖精的旋律》](https://zh.wikipedia.org/wiki/%E5%A6%96%E7%B2%BE%E7%9A%84%E6%97%8B%E5%BE%8B)|部分血腥镜头遭到审查影响剧情，建议获取原版。适合夏天观看，降温效果极佳。|萌x猎奇异形（沙耶？，心理，人性|
+|[《苹果核战记》](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%A0%B8%E6%88%B0)||士郎正宗|
 
 * 注：「程政管民」即「基于计算机程序的政府对人民进行管理」。
