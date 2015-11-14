@@ -12,7 +12,7 @@ Dystopian & Other Science Fiction Animes Complementing Project
 |[《盗梦侦探》](https://zh.wikipedia.org/wiki/%E7%9B%9C%E5%A4%A2%E5%81%B5%E6%8E%A2)||电影|
 |[《妄想代理人》](https://zh.wikipedia.org/wiki/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA)||超自然，科幻 -1|
 |[《禁猎魔女》](https://zh.wikipedia.org/wiki/%E7%A6%81%E7%8D%B5%E9%AD%94%E5%A5%B3)|这都是政府的阴谋啊！||
-|[《世界毁灭》](https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%AF%80%E6%BB%85)|中二无人可当的无敌的日本高中生，意义不命……|科幻 -2|
+|[《世界毁灭》](https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%AF%80%E6%BB%85)|中二无人可当的无敌的日本高中生，意义不明……|科幻 -2|
 |[《壳中少女》](https://zh.wikipedia.org/wiki/%E5%A3%B3%E4%B8%AD%E5%B0%91%E5%A5%B3)|气氛诡异的典型赛博朋克。|电影，科幻 +0.5|
 |[《阿基拉》](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%9F%BA%E6%8B%89_%28%E7%94%B5%E5%BD%B1%29)|历史意义重大的前卫科幻作品，然而并没有什么卵用？|电影，超能力，科学魔幻|
 |[《迷宫物语》](https://zh.wikipedia.org/wiki/%E8%BF%B7%E5%AE%AB%E7%89%A9%E8%AF%AD)||短电影，超能力，奇幻|
