@@ -6,7 +6,7 @@ Dystopian & Other Science Fiction Animes Complementing Project
 以下动画的顺序完全是随意复制粘贴的顺序，和观看顺序或得分均无关系。欢迎在 Issues 里进行讨论；如果你有和反乌托邦与赛博朋克有关的动画推荐，欢迎 Pull Request。你可以在渣浪微博 [@某个盖子](http://www.weibo.com/biergaizi) 关注我。
 
 |片名|评论/吐槽|完成|推荐度|标签|
-|---|---|---|----|
+|---|---|---|----|---|
 |[《泡泡糖危机》](https://zh.wikipedia.org/wiki/%E5%90%B9%E6%B3%A1%E7%B3%96%E5%8D%B1%E6%9C%BA)|深受同时代多部美国电影和日本漫画影响的一部 80 年代赛博朋克 + 机战的科幻作品。|✓|强烈推荐|80 年代、赛博朋克、生化人、机战、致敬|
 |[《日本锁国》](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%94%81%E5%9B%BD_%28%E7%94%B5%E5%BD%B1%29)||✓||电影，基因技术|
 |[《奔向地球》](https://zh.wikipedia.org/wiki/%E5%A5%94%E5%90%91%E5%9C%B0%E7%90%83)||||基因技术，数字政权管理|
