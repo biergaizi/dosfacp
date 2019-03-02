@@ -7,6 +7,7 @@ Dystopian & Other Science Fiction Animes Complementing Project
 
 |片名|评论/吐槽|完成|标签|
 |---|---|---|----|
+|[《泡泡糖危机》](https://zh.wikipedia.org/wiki/%E5%90%B9%E6%B3%A1%E7%B3%96%E5%8D%B1%E6%9C%BA)|深受同时代多部美国电影和日本漫画影响的一部 80 年代赛博朋克 + 机战的科幻作品。整部动画的基本格局基于《银翼杀手》（Blade Runner）：仅靠夜晚霓虹灯点缀的阴暗灰色城市，制造超级生化人控制了全世界经济政治的巨型财团 Genom，受到财团摆布而且几乎无能的 A.D.Police——为了致敬原作，甚至还直接出现了「底层仿生人从太空殖民地逃亡到地球被到处追杀，仿生人中的反派则亲自去见了财团老板并干掉他」的原作再演绎；而能摇身变形为机械怪物的超级生化人明显参考了《终结者》（Terminator）；而其中摇滚乐队与女歌手主角的元素则是出自《狠将奇兵》（Streets of Fire）。穿插其中的还有被飞船引擎干掉的生化怪兽，其死法和雷德利·斯科特的《异形》（Alien）结局完全一致；好似来自《阿基拉》漫画的摩托车暴力团；致敬《Max Headroom》的路牌等等——能把这么多元素结合起来构造出新的故事，本身就已经是剧情最大的创新了——如今大概是很难在一个动画工作室中找到这种程度的科幻粉丝了。可惜本片因卷入 Youmex 和 AIC 两大制片方的商业纠纷，仅制作了 8 话便彻底烂尾！制作续集的尝试，要么同样因为法律威胁而停工（A.D Police），要么远不如原作。结论：强烈推荐，但建议观看本片之前先观看《银翼杀手》、《Max Headroom》、《阿基拉》等其他经典作品，从而不辜负剧组埋下这么多彩蛋的良苦用心，也降低烂尾造成的残念。|✓|80 年代作品、赛博朋克、生化人、机战、致敬|
 |[《日本锁国》](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%94%81%E5%9B%BD_%28%E7%94%B5%E5%BD%B1%29)||✓|电影，基因技术|
 |[《奔向地球》](https://zh.wikipedia.org/wiki/%E5%A5%94%E5%90%91%E5%9C%B0%E7%90%83)|||基因技术，数字政权管理|
 |[《盗梦侦探》](https://zh.wikipedia.org/wiki/%E7%9B%9C%E5%A4%A2%E5%81%B5%E6%8E%A2)||✓|电影|
@@ -20,7 +21,6 @@ Dystopian & Other Science Fiction Animes Complementing Project
 |[《死亡代理人》](https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E4%BB%A3%E7%90%86%E4%BA%BA)|这都是政府的阴谋啊！ED 是专辑《Ok, computer》的《Paranoid Android》。|⏳|异形，科学魔幻，哲学|
 |[《妖精的旋律》](https://zh.wikipedia.org/wiki/%E5%A6%96%E7%B2%BE%E7%9A%84%E6%97%8B%E5%BE%8B)|部分血腥镜头遭到审查影响剧情，建议获取原版。适合夏天观看，降温效果极佳。|⏳|萌x猎奇异形（沙耶？，心理，人性|
 |[《苹果核战记》](https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%A0%B8%E6%88%B0)||✓|士郎正宗|
-|[《泡泡糖危机》](https://zh.wikipedia.org/wiki/%E5%90%B9%E6%B3%A1%E7%B3%96%E5%8D%B1%E6%9C%BA})|?||赛博朋克|
 
 * 注：「数字政权管理 (Digital Regime Management)」即「政权利用计算机技术管理人民，维护政权」。
 
